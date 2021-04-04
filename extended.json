@@ -1,24 +1,14 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/strikepool-cardano/strike-pool/blob/main/StrikePool.png",
+        "url_png_icon_64x64": "https://github.com/strikepool-cardano/strike-pool/blob/main/StrikePool.png?raw=true",
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-        "location": "London, England",
+        "location": "Ljubljana, Slovenia",
         "social": {
             "twitter_handle": "AdapoolsO",
             "telegram_handle": "adapools_ops",
             "facebook_handle": "",
             "youtube_handle": "",
-            "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": ""
-        },
-        "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
         },
         "about": {
             "me": "...",
