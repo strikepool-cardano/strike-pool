@@ -4,47 +4,18 @@
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
         "location": "Ljubljana, Slovenia",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "discord_handle": "",
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "A 24/7 stake pool ran by two cardano enthusiasts. Feel free to ask us any questions on our social media!",
+            "server": "Block producer is running on a Vultr VPS cloud instance. We are running 2 relay nodes on seperate locations for redundancy. We guarantee a 99.9% uptime with 200Mb/s internet.",
         },
-        "rss": "http(s) url to valid RSS feed"
-    },
-    "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
     },
     "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "0": ""
     },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
-    }
 }
